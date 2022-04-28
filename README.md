@@ -4,7 +4,7 @@
 
 ## Sistem ini menggunakan Hashmap untuk menyimpan data - datanya sehingga jika program dimatikan maka data yang tadi ditambahkan, diubah, dihapus akan hilang
 
-##Sistem Informasi ini dapat melakukan: 
+## Sistem Informasi ini dapat melakukan: 
 1. Menambah data karyawan
 2. Menghapus data karyawan dengan mencari NIK karyawan yang akan dihapus
 3. Mengubah data karyawan dengan mencari NIK karyawan yang akan diedit
