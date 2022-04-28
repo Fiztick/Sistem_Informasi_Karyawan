@@ -3,6 +3,7 @@
 ## Sistem Informasi Karyawan ini menggunakan bahasa java
 
 * Sistem ini menggunakan Hashmap untuk menyimpan data - datanya sehingga jika program dimatikan maka data yang tadi ditambahkan, diubah, dihapus akan hilang
+* Sistem ini masih kurang sempurna masih dapat terjadi error jika salah input
 
 ## Sistem Informasi ini dapat melakukan: 
 1. Menambah data karyawan
